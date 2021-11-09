@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="100" height="20" viewBox="0 0 100 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <rect width="100" height="20" style="fill: #EBEBEB;" rx="3" ry="3"/>
-  <rect width="19" height="20" style="fill: #41C000;" rx="3" ry="3"/>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="20" version="1.1" viewBox="0 0 100 20"><rect width="100" height="20" rx="3" ry="3" style="fill:#ebebeb"/><rect width="19" height="20" rx="3" ry="3" style="fill:#41c000"/></svg>
